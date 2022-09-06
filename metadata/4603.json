@@ -1,0 +1,35 @@
+{
+    "image": "https://gateway.pinata.cloud/ipfs/QmVH9K9YsXdi1QHtDNkWnxRnNLx8uiVJwn6aMBvDtF4rrA/4603.png",
+    "tokenId": 4603,
+    "name": "CryptoSperms 4603",
+    "attributes": [
+        {
+            "trait_type": "cor",
+            "value": "Orange"
+        },
+        {
+            "trait_type": "cauda",
+            "value": "coal"
+        },
+        {
+            "trait_type": "boca",
+            "value": "4"
+        },
+        {
+            "trait_type": "chapeu",
+            "value": "3"
+        },
+        {
+            "trait_type": "nariz",
+            "value": "5"
+        },
+        {
+            "trait_type": "olhos",
+            "value": "Devil red"
+        },
+        {
+            "trait_type": "orelhas",
+            "value": "7"
+        }
+    ]
+}

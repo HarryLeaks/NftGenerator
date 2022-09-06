@@ -1,0 +1,35 @@
+{
+    "image": "https://gateway.pinata.cloud/ipfs/QmVH9K9YsXdi1QHtDNkWnxRnNLx8uiVJwn6aMBvDtF4rrA/5294.png",
+    "tokenId": 5294,
+    "name": "CryptoSperms 5294",
+    "attributes": [
+        {
+            "trait_type": "cor",
+            "value": "red"
+        },
+        {
+            "trait_type": "cauda",
+            "value": "Classic"
+        },
+        {
+            "trait_type": "boca",
+            "value": "5"
+        },
+        {
+            "trait_type": "chapeu",
+            "value": "3"
+        },
+        {
+            "trait_type": "nariz",
+            "value": "3"
+        },
+        {
+            "trait_type": "olhos",
+            "value": "Glass"
+        },
+        {
+            "trait_type": "orelhas",
+            "value": "2"
+        }
+    ]
+}

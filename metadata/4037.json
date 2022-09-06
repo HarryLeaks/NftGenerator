@@ -1,0 +1,35 @@
+{
+    "image": "https://gateway.pinata.cloud/ipfs/QmVH9K9YsXdi1QHtDNkWnxRnNLx8uiVJwn6aMBvDtF4rrA/4037.png",
+    "tokenId": 4037,
+    "name": "CryptoSperms 4037",
+    "attributes": [
+        {
+            "trait_type": "cor",
+            "value": "poison"
+        },
+        {
+            "trait_type": "cauda",
+            "value": "poison"
+        },
+        {
+            "trait_type": "boca",
+            "value": "2"
+        },
+        {
+            "trait_type": "chapeu",
+            "value": "6"
+        },
+        {
+            "trait_type": "nariz",
+            "value": "1"
+        },
+        {
+            "trait_type": "olhos",
+            "value": "Devil Blue"
+        },
+        {
+            "trait_type": "orelhas",
+            "value": "1"
+        }
+    ]
+}

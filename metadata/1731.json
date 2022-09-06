@@ -1,0 +1,35 @@
+{
+    "image": "https://gateway.pinata.cloud/ipfs/QmVH9K9YsXdi1QHtDNkWnxRnNLx8uiVJwn6aMBvDtF4rrA/1731.png",
+    "tokenId": 1731,
+    "name": "CryptoSperms 1731",
+    "attributes": [
+        {
+            "trait_type": "cor",
+            "value": "green"
+        },
+        {
+            "trait_type": "cauda",
+            "value": "coal"
+        },
+        {
+            "trait_type": "boca",
+            "value": "3"
+        },
+        {
+            "trait_type": "chapeu",
+            "value": "5"
+        },
+        {
+            "trait_type": "nariz",
+            "value": "2"
+        },
+        {
+            "trait_type": "olhos",
+            "value": "happy"
+        },
+        {
+            "trait_type": "orelhas",
+            "value": "2"
+        }
+    ]
+}
